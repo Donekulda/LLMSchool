@@ -11,3 +11,5 @@ https://github.com/datalumina/datalumina-project-template
 *Better Comments - > Highlights different comments
 *Ruff -> Helps auto fix naming conventions
 *Material Icon Theme -> More icons for dirrent file types
+
+
